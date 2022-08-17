@@ -1,0 +1,1 @@
+rootProject.name = "ae.therafits.ktor-serverdemo"
